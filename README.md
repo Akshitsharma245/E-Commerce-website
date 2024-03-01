@@ -1,2 +1,2 @@
 # E-Commerce-website
-I developed this E-Commerce website using React Js
+I developed this E-Commerce website using React Js.
